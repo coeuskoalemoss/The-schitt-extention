@@ -1,1 +1,3 @@
-This is your Chrome extension which replaces a word or phrase with a different word or phrase. 
+The schitt extention changes the word 'baby' into 'bébé' on all your webpages.
+
+Now don't act like a disgruntled pelican and add this to your chrome.
