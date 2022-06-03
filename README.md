@@ -1,1 +1,1 @@
-# The-schitt-extention
+This is your Chrome extension which replaces a word or phrase with a different word or phrase. 
